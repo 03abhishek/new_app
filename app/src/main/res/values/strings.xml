@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="Hii_there">Hii There</string>
+    <string name="Button">Button</string>
+    <string name="Name">Name</string>
 </resources>
